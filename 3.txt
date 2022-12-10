@@ -1,0 +1,5 @@
+Table schema:
+User Id | API Id | Request Time | Service Time
+
+Another table can be store to make aggregating functions quicker:
+API Id | User Id | No of Requests so far | Total of Response Time
